@@ -3,6 +3,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
+	background-color: #ffcce6;
 }
 
 ul { font-size: 32px; 
@@ -28,7 +29,7 @@ font-family: 'Helvetica', 'Trebuchet MS', serif;
 
 
 .hero {
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
   color: #ffffff;
 	padding: 250px 0;
 	margin: 30px;
