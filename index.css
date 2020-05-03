@@ -1,0 +1,31 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+ul { font-size: 32px; 
+  font-family: 'Helvetica', 'Trebuchet MS', serif; 
+  color:rgb(46,105,163);}
+
+
+h1 {
+	font-size: 32px; 
+  font-family: 'Helvetica', 'Trebuchet MS', serif; 
+  color:rgb(46,105,163);
+}
+
+h2 {
+	font-size: 56px;
+font-family: 'Helvetica', 'Trebuchet MS', serif; 
+  color:rgb(46,105,163)
+}
+
+
+.hero {
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  color: #ffffff;
+	padding: 250px 0;
+	margin: 30px;
+  background-image: url("
