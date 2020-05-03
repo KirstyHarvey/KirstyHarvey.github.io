@@ -1,9 +1,9 @@
 body {
+	background-color: #ffcce6;
 	height: 100%;
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	background-color: #ffcce6;
 }
 
 ul { font-size: 32px; 
